@@ -1,0 +1,1 @@
+SELECT DISTINCT author_fname FROM books;
